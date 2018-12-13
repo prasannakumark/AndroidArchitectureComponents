@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatestNewsInformation</string>
+    <string name="please_login">Please Login</string>
+    <string name="please_enter_email_id_hint">Please eneter email id</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="login">Login</string>
+</resources>
